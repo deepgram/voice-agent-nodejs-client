@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "log-timestamp": "^0.3.0",
+    "mic": "^2.1.2",
+    "speaker": "^0.5.5",
+    "ws": "^8.18.0"
+  }
+}
