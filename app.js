@@ -25,7 +25,9 @@ const CONFIG = {
             model: "nova-2"
         },
         think: {
-            provider: "open_ai",
+            provider: {
+                type: "open_ai"
+            },
             model: "gpt-3.5-turbo",
             instructions: "You are a helpful assistant."
         },
